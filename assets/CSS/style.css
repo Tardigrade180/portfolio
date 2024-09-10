@@ -2,8 +2,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    height: 10vh;
-    width: 100vw;
+    height: 71px;
     align-items: center;
     background-color: #0779E4;
 }
@@ -12,8 +11,7 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    width: 70%;
-    
+    width: 70%;  
 }
 
 .text-white {
@@ -24,8 +22,8 @@ nav {
     background-image: url(../images/hero-BG.png);
     height: 100vh;
     background-size: cover;
-    width: 100%;
     padding: 10%;
+
 
 }
 
@@ -50,6 +48,7 @@ nav {
     padding: 16px 24px;
     border: none;
     border-radius: 4px;
+
 }
 .btn-blue {
     background-color: #0779E4;
@@ -59,10 +58,4 @@ nav {
 .btn-white {
     color: #0779E4;
     background-color: white;
-}
-
-.image-edit {
-    height: 50vh;
-    width: 50vw;
-
 }
