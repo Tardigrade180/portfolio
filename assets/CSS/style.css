@@ -59,3 +59,16 @@ nav {
     color: #0779E4;
     background-color: white;
 }
+
+.about-us {
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+
+}
+
+.about-us-image {
+    background-image: url(../images/about.jpg);
+    background-position: center;
+    background-size: cover;
+}
